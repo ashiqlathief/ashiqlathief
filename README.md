@@ -32,3 +32,13 @@ I have hands-on experience deploying and programming real robotic hardware inclu
 - Visuomotor policy conditioned on first-person ViT encoder observations
 - Obstacle avoidance enforced via SLSQP-based trajectory projection at inference time
 - Compared ViT vs. CNN encoders for visuomotor control performance
+- 
+# 📫 Contact Me
+- 🔗 **LinkedIn:** https://www.linkedin.com/in/ashiq-ali-abdul-lathief-266891191/
+- 📧 **Email:** ashiq.athief@gmail.com
+
+# 🌱 What I’m Working On
+- Python modules and helpers
+- Robotics & ROS-based automation  
+- Improving CI/CD practices  
+- Writing clean, scalable backend APIs  
