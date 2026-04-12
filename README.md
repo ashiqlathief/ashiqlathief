@@ -33,10 +33,17 @@ I have hands-on experience deploying and programming real robotic hardware inclu
 - Obstacle avoidance enforced via SLSQP-based trajectory projection at inference time
 - Compared ViT vs. CNN encoders for visuomotor control performance
 
-# 📫 Contact Me
-- 🔗 **LinkedIn:** https://www.linkedin.com/in/ashiq-ali-abdul-lathief-266891191/
-- 📧 **Email:** ashiq.athief@gmail.com
+###🦾 Rescue Robot Object Handling System
+GET Lab, Universität Paderborn · 2023–2024
 
+- Deployed and programmed the Kinova robotic arm and a custom mechanical arm for real-robot manipulation
+- AprilTag-based 6-DoF pose estimation pipeline on real hardware
+- Qt backend with ROS action server-client architecture
+- Studied pose-based visual servoing (PBVS) for perception-in-the-loop control
+
+# 📫 Contact Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ashiq--ali--abdul--lathief-blue?logo=linkedin)](https://www.linkedin.com/in/ashiq-ali-abdul-lathief-266891191/)
+[![Email](https://img.shields.io/badge/Email-ashiq.lathief@gmail.com-red?logo=gmail)](mailto:ashiq.lathief@gmail.com)
 # 🌱 What I’m Working On
 - Python modules and helpers
 - Robotics & ROS-based automation  
