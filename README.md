@@ -9,7 +9,7 @@ I have hands-on experience deploying and programming real robotic hardware inclu
 ## 🤖 What I Work With
 
 **Robotics & Simulation**
-`ROS` · `ROS 2` · `NVIDIA Isaac Sim` · `AprilTag` · `Kinova Gen3`
+`ROS` · `ROS 2 Jazzy` · `MoveIt 2` · `Gazebo` · `NVIDIA Isaac Sim` · `AprilTag` · `Kinova Gen3` · `Universal Robots UR5e`
 
 **ML / AI**
 `PyTorch` · `Diffusion Models / Policies` · `Vision Transformers (ViT)` · `CNNs`
@@ -18,11 +18,12 @@ I have hands-on experience deploying and programming real robotic hardware inclu
 `Python` · `C++`
 
 **Tools**
-`Git` · `MATLAB` · `Simulink` · `Qt`
+`Git` · `Linux` · `MATLAB` · `Simulink` · `Qt`
 
 ## 🔬 Current Focus
 
 - 🎓 **Master Thesis** — Safe 3D drone navigation using DPCC: constraint-aware diffusion policy with SLSQP trajectory projection and ViT-based visuomotor control in Isaac Sim
+
 ## 📌 Highlighted Projects
 
 ### 🚁 Safe 3D Drone Navigation with Diffusion Predictive Control
@@ -33,19 +34,25 @@ I have hands-on experience deploying and programming real robotic hardware inclu
 - Obstacle avoidance enforced via SLSQP-based trajectory projection at inference time
 - Compared ViT vs. CNN encoders for visuomotor control performance
 
-###🦾 Rescue Robot Object Handling System
-GET Lab, Universität Paderborn · 2023–2024
+### 🛠️ [dexterity-ros2](https://github.com/ashiqlathief/dexterity-ros2): Hand-Eye Manipulation in ROS 2 Jazzy
+
+- Ported the GET Lab `dexterity` hand-eye controller (closed-loop, pose-based visual servoing) from ROS 1 to ROS 2 Jazzy
+- Simulated UR5e with a Robotiq 2F-85 gripper and wrist camera in Gazebo Harmonic, planned with MoveIt 2
+- Integrated ICG and M3T 6D object pose tracking and SIFT-based hazmat sign detection
+- rqt control panel, ROS action server-client architecture and a ground-truth evaluation node
+
+### 🦾 Rescue Robot Object Handling System
+
+*GET Lab, Universität Paderborn · 2023–2024*
 
 - Deployed and programmed the Kinova robotic arm and a custom mechanical arm for real-robot manipulation
 - AprilTag-based 6-DoF pose estimation pipeline on real hardware
 - Qt backend with ROS action server-client architecture
 - Studied pose-based visual servoing (PBVS) for perception-in-the-loop control
 
-# 📫 Contact Me
+
+
+## 📫 Contact Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ashiq--ali--abdul--lathief-blue?logo=linkedin)](https://www.linkedin.com/in/ashiq-ali-abdul-lathief-266891191/)
 [![Email](https://img.shields.io/badge/Email-ashiq.lathief@gmail.com-red?logo=gmail)](mailto:ashiq.lathief@gmail.com)
-# 🌱 What I’m Working On
-- Python modules and helpers
-- Robotics & ROS-based automation  
-- Improving CI/CD practices  
-- Writing clean, scalable backend APIs  
+
